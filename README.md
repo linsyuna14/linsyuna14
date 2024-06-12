@@ -1,16 +1,20 @@
-## Hi there 👋
+## Seja Bem Vindo ao meu Perfil 🐈‍⬛
+Meu nome é Yuna
 
-<!--
-**linsyuna14/linsyuna14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- sou estudante do ensino médio
 
-Here are some ideas to get you started:
+- faço parte do grêmio estudantil da escola
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- tenho 16 anos
+
+- faço academia
+
+- quero fazer faculdade de medicina e me especializar em pediatria.
+
+## você pode entrar em contato comigo 📧
+
+  linsyuna@gmail.com
+
+  @linsyuna
+
+  ![](https://media1.tenor.com/m/47qpxBq_Tw0AAAAd/cat-cat-meme.gif)
